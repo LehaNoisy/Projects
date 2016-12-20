@@ -1,0 +1,19 @@
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\bin\Debug\CaliburnMicroApp.exe
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\bin\Debug\CaliburnMicroApp.pdb
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\bin\Debug\Caliburn.Micro.dll
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\obj\x86\Debug\CaliburnMicroApp.csprojResolveAssemblyReference.cache
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\obj\x86\Debug\AppView.baml
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\obj\x86\Debug\AppView.g.cs
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\obj\x86\Debug\App.g.cs
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\obj\x86\Debug\CaliburnMicroApp_MarkupCompile.cache
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\obj\x86\Debug\CaliburnMicroApp_MarkupCompile.lref
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\obj\x86\Debug\App.baml
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\obj\x86\Debug\CaliburnMicroApp.g.resources
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\obj\x86\Debug\CaliburnMicroApp.Properties.Resources.resources
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\obj\x86\Debug\CaliburnMicroApp.csproj.GenerateResource.Cache
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\obj\x86\Debug\CaliburnMicroApp.exe
+C:\Users\Leha_Noisy\Downloads\CaliburnMicroApp\CaliburnMicroApp\obj\x86\Debug\CaliburnMicroApp.pdb
+C:\Users\Leha_Noisy\Desktop\Github\WPFCaliburn\WPFCaliburnMicroAppWindow Manager\CaliburnMicroApp\obj\x86\Debug\CaliburnMicroApp.exe
+C:\Users\Leha_Noisy\Desktop\Github\WPFCaliburn\WPFCaliburnMicroAppWindow Manager\CaliburnMicroApp\obj\x86\Debug\CaliburnMicroApp.pdb

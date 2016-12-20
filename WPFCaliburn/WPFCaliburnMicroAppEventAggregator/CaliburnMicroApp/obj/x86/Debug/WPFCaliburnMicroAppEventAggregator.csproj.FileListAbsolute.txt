@@ -1,0 +1,2 @@
+C:\Users\Leha_Noisy\Desktop\Github\WPFCaliburn\WPFCaliburnMicroAppEventAggregator\CaliburnMicroApp\obj\x86\Debug\CaliburnMicroApp.exe
+C:\Users\Leha_Noisy\Desktop\Github\WPFCaliburn\WPFCaliburnMicroAppEventAggregator\CaliburnMicroApp\obj\x86\Debug\CaliburnMicroApp.pdb
