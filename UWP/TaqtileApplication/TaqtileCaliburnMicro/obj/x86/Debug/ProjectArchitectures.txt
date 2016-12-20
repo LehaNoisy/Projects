@@ -1,0 +1,1 @@
+c:\users\leha_noisy\documents\visual studio 2015\Projects\TaqtileCaliburnMicro\TaqtileCaliburnMicro\TaqtileApplication.csproj;x86
